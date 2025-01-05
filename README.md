@@ -1,4 +1,4 @@
-# **Capstone Project**
+# **Motor Imagery Using EEG Classification**
 
 ## **Objective**  
 This project aims to assist individuals with motor impairments by analyzing their brain's EEG signals to predict intended body movements.  
