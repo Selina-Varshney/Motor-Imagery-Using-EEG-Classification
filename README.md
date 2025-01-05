@@ -3,7 +3,7 @@
 ## **Objective**  
 This project aims to assist individuals with motor impairments by analyzing their brain's EEG signals to predict intended body movements.  
 
-## **Demonstartion:**  
+## **Demonstration:**  
 https://github.com/user-attachments/assets/0656aef3-080b-405d-ba6f-5ed0e48ce432
 
 ## **Dataset**  
