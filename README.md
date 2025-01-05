@@ -3,6 +3,9 @@
 ## **Objective**  
 This project aims to assist individuals with motor impairments by analyzing their brain's EEG signals to predict intended body movements.  
 
+## **Demonstartion:**  
+https://github.com/user-attachments/assets/0656aef3-080b-405d-ba6f-5ed0e48ce432
+
 ## **Dataset**  
 The dataset has been sourced from [BBCI IV Competition](https://www.bbci.de/competition/iv/).  
 - Multiple datasets are available, varying by the number of electrodes used in the EEG skull cap.  
