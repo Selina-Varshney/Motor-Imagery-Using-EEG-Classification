@@ -85,8 +85,10 @@ The dataset has been sourced from [BBCI IV Competition](https://www.bbci.de/comp
 
 ## **Accuracy**  
 - Used an **Inception-based CNN** with 5-fold cross-validation for classification.  
-- Achieved an accuracy of **80%** on the 22-channel dataset.  
+- Achieved an accuracy of **83%** on the 22-channel dataset.  
 - The model utilizes Inception modules for feature extraction and reports average accuracy and loss.  
 
 ![image](https://github.com/user-attachments/assets/f98d0dd1-bd75-4fe0-8275-a57a8f962354)  
 ![image](https://github.com/user-attachments/assets/6834231b-2900-4598-9772-a2ded60ac9e8)
+![image](https://github.com/user-attachments/assets/b9b645cb-1cfd-46e3-a1c1-8012c9cb5dfa)
+
