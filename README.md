@@ -7,7 +7,7 @@ This project aims to assist individuals with motor impairments by analyzing thei
 https://github.com/user-attachments/assets/0656aef3-080b-405d-ba6f-5ed0e48ce432
 
 ## **Results**  
-Results for all 9 subjects of the 22 channel data is present in the folder named '22 channel-data' present in this repository. This includes accuracy curve, loss curve, confusion matrix, mean accuracy and kappa scores of the proposed model.
+Results for all 9 subjects of the 22 channel data is present in the folder named '22 channel-data' present in this repository. This includes accuracy curve, loss curve, confusion matrix, mean accuracy and kappa score of the proposed model.
 
 ## **Dataset**  
 The dataset has been sourced from [BBCI IV Competition](https://www.bbci.de/competition/iv/).  
